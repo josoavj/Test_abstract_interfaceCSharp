@@ -1,0 +1,15 @@
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\Test_abstract_interface.csproj.AssemblyReference.cache
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\Test_abstract_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\Test_abstract_interface.AssemblyInfoInputs.cache
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\Test_abstract_interface.AssemblyInfo.cs
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\Test_abstract_interface.csproj.CoreCompileInputs.cache
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\bin\Debug\net7.0\Test_abstract_interface.exe
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\bin\Debug\net7.0\Test_abstract_interface.deps.json
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\bin\Debug\net7.0\Test_abstract_interface.runtimeconfig.json
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\bin\Debug\net7.0\Test_abstract_interface.dll
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\bin\Debug\net7.0\Test_abstract_interface.pdb
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\Test_abstract_interface.dll
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\refint\Test_abstract_interface.dll
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\Test_abstract_interface.pdb
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\Test_abstract_interface.genruntimeconfig.cache
+D:\Dev\Test C#\Test_abstract_interface\Test_abstract_interface\obj\Debug\net7.0\ref\Test_abstract_interface.dll
